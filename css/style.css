@@ -586,6 +586,22 @@ header nav li:last-child{
     }
 }
 
+@media (max-width: 550px){
+
+    .hover{
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+}
+
+@media (max-width: 400px){
+
+    .hover{
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+}
+
 @media (max-width: 360px){
 
     .hover{
